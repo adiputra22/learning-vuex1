@@ -1,4 +1,5 @@
 # vuex_todo
+Tutorial is from Traversy Media link (https://www.youtube.com/watch?v=5lVQgZzLMHc&t=2878s)
 
 ## Project setup
 ```
